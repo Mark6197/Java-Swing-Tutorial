@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 class Main extends JFrame {
 
 	Main(String path) {
-		super("Windows Exploder - Javatpoint");
+		super("Windows Explorer");
 		add(new Explorer(path), "Center");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setSize(400, 400);
