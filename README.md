@@ -28,16 +28,24 @@
   2.6 BoxLayoutDemo- BoxLayout
   2.7 In SwingMvcFirstDemo we will use GroupLayout
   
-3. Swing Multiple Windows- Simple tutorial with Multiple windows
+4. Swing Multiple Windows- Simple tutorial with Multiple windows
 
-4. MVC
-  4.1 SwingMVCFirstDemo- JTextField, JButton, JOptionPane, GroupLayout
-  4.2 SwingMVCSecondDemo- Constant Data, JTextField, JButton, JTable, DefaultTableModel, JScrollPane, JSplitPane
+5. MVC
+  5.1 SwingMVCFirstDemo- JTextField, JButton, JOptionPane, GroupLayout
+  5.2 SwingMVCSecondDemo- Constant Data, JTextField, JButton, JTable, DefaultTableModel, JScrollPane, JSplitPane
   
-5. Multithreading 
-  5.1 ProgressBar- Upgrading the ProgressBar from Swing Components to be multithreaded
-  5.2 Counter- Show bad practice and then best practice of updating the ui, show how it's done using SwingUtilities and using SwingWorker, uses GridBagLayout with GridBagConstraints
-  5.3 ProgressBar2- Another progress bar, this time it's using PropertyChangeListener and PropertyChangeEvent
-  5.4 Flipper- Another example of multithreading in swing, in this demo we can also cancel the running task
+6. Multithreading 
+  6.1 ProgressBar- Upgrading the ProgressBar from Swing Components to be multithreaded
+  6.2 Counter- Show bad practice and then best practice of updating the ui, show how it's done using SwingUtilities and using SwingWorker, uses GridBagLayout with        GridBagConstraints
+  6.3 ProgressBar2- Another progress bar, this time it's using PropertyChangeListener and PropertyChangeEvent
+  6.4 Flipper- Another example of multithreading in swing, in this demo we can also cancel the running task
   
-6.
+7. Graphics
+  7.1 Graphics2DDemo (uses also Panel2D)- Show how to draw and fill simple shapes: lines, rectangles, circles, triangles
+  7.2 MyPaint (uses also PolyLine)- Create painter, uses MouseAdapter and MouseMotionAdapter
+  
+8. Animations- Move an image on the screen, show differnce between overriding different paint methods
+
+9. Other Projects- 
+
+10. Design Patterns- 
