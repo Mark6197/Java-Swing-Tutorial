@@ -1,23 +1,23 @@
 # Java-Swing-Tutorial
 
 1. Swing Components
- * 1.1 JFrameJLabelDemo (uses also MyCustomFrame)- JFrame, JLabel, ImageIcon, Show two wats of creating JFrame- create new instance or extend JFrame class
- * 1.2 JPanelsDemo (uses also MyCustomFrame)- JPanel
+ ** 1.1 JFrameJLabelDemo (uses also MyCustomFrame)- JFrame, JLabel, ImageIcon, Show two wats of creating JFrame- create new instance or extend JFrame class
+ ** 1.2 JPanelsDemo (uses also MyCustomFrame)- JPanel
   1.3 JButtonDemo- JButton, ActionListener
- * 1.4 JTextFieldJPasswordFieldJCheckBoxJSPinnerDemo- JTextField, JPasswordField, JCheckBox, JSPinner (Numbers and dates), JButton, uses FlowLayout
+ ** 1.4 JTextFieldJPasswordFieldJCheckBoxJSPinnerDemo- JTextField, JPasswordField, JCheckBox, JSPinner (Numbers and dates), JButton, uses FlowLayout
   1.5 JComboBoxDemo- JComboBox, uses FlowLayout
- * 1.6 JListDemo- JList
+ ** 1.6 JListDemo- JList
   1.7 JRadioButtonDemo- JRadioButton, ButtonGroup, uses FlowLayout
- * 1.8 JProgressBarDemo- JProgressBar, UIManager, no multithreading
+ ** 1.8 JProgressBarDemo- JProgressBar, UIManager, no multithreading
   1.9 JTabbedPaneDemo- JTabbedPane
   1.10 JTreeDemo- JTree
- * 1.11 JSilderDemo- JSlider, ChangeListener, uses GridBagLayout with GridBagConstraints
- * 1.12 JMenuBarJPopupMenuDemo- JMenuBar, JMenu, JMenuItem, JPopupMenu, ImageIcon, setMnemonic with KeyEvent
- * 1.13 JDialogJOptionPaneDemo- JDialog JOptionPane
- * 1.14 JFileChooserDemo- JFileChooser
+ ** 1.11 JSilderDemo- JSlider, ChangeListener, uses GridBagLayout with GridBagConstraints
+ ** 1.12 JMenuBarJPopupMenuDemo- JMenuBar, JMenu, JMenuItem, JPopupMenu, ImageIcon, setMnemonic with KeyEvent
+ ** 1.13 JDialogJOptionPaneDemo- JDialog JOptionPane
+ ** 1.14 JFileChooserDemo- JFileChooser
   1.15 JColorChooserDemo- JColorChooser
- * 1.16 JLayeredPaneDemo- JLayeredPane
- * 1.17 JTableDemo- JTable, JScrollPane, ListSelectionListener
+ ** 1.16 JLayeredPaneDemo- JLayeredPane
+ ** 1.17 JTableDemo- JTable, JScrollPane, ListSelectionListener
 
 2. Layouts
   2.1 BorderLayoutDemo- BorderLayout
